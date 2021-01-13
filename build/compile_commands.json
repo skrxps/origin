@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/codex/workspace/workspacec/build",
+  "command": "D:\\codex\\mingw64\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\basic.dir\\main.cpp.obj -c D:\\codex\\workspace\\workspacec\\main.cpp",
+  "file": "D:/codex/workspace/workspacec/main.cpp"
+}
+]
